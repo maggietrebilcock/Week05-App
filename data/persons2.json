@@ -1,0 +1,23 @@
+[
+  { 
+    "name": "Jane Doe",
+    "email": "janedoe@coder.com",
+    "phone": "800-555-5555",
+    "birthdate": "05/11/2020",
+    "id": 4
+  },
+  { 
+    "name": "Tim Berners-Lee",
+    "email": "webguy@person.com",
+    "phone": "800-555-4567",
+    "birthdate": "01/02/2001",
+    "id": 5
+  },
+  { 
+    "name": "Micheal Jordan",
+    "email": "basketball@scripter.com",
+    "phone": "800-876-3090",
+    "birthdate": "12/01/1492",
+    "id": 6
+  }
+]
